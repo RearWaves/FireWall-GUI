@@ -24,7 +24,7 @@ sudo python3 gui.py
 
 ## 简单展示
 
-![界面展示](https://github.com/RearWaves/FireWall-GUI/assets/101962278/27255e57-88e8-4a82-92ae-5f6152b2f90d)
+![界面展示](https://github.com/RearWaves/FireWall-GUI/assets/101962278/272ccbaf-fa27-4727-bfd7-4140f47ef829)
 
 ## 致谢
 
